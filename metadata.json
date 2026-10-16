@@ -1,0 +1,6 @@
+{
+  "name": "The World of Pixal",
+  "description": "دنیای اقتصاد، هوش مصنوعی، معدن‌کاوی و نبردهای استراتژیک پیکسلی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
