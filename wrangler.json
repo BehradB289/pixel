@@ -1,0 +1,15 @@
+{
+  "name": "pixel",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "GAME_DB",
+      "id": "4be1f277bf324366bb7784db3e87f7b9"
+    }
+  ]
+}
